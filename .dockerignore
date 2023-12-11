@@ -1,0 +1,35 @@
+# Ignore files and directories commonly used in Docker projects
+
+# Ignore .git directory
+.git
+
+# Ignore .svn directory
+.svn
+
+# Ignore .hg directory
+.hg
+
+# Ignore .bzr directory
+.bzr
+
+# Ignore .DS_Store file
+.DS_Store
+
+# Ignore .env file
+.env
+
+# Ignore .env.* files
+.env.*
+
+# Ignore .vscode directory
+.vscode
+
+# Ignore node_modules directory
+node_modules
+
+
+# Ignore yarn.lock file
+yarn.lock
+
+# Ignore .idea directory
+.idea
